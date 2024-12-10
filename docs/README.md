@@ -2,6 +2,8 @@
 
 <img src="https://kernelsu.org/logo.png" style="width: 96px;" alt="logo">
 
+#### This Build is for personal use. If you want to use it, you can; it might be unstable as it is built on the latest commits to the official
+
 A Kernel-based root solution for Android devices.
 
 [![Latest release](https://img.shields.io/github/v/release/tiann/KernelSU?label=Release&logo=github)](https://github.com/tiann/KernelSU/releases/latest)
