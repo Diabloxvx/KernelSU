@@ -6,7 +6,7 @@
 
 A Kernel-based root solution for Android devices.
 
-[![Latest release](https://img.shields.io/github/v/release/tiann/KernelSU?label=Release&logo=github)](https://github.com/tiann/KernelSU/releases/latest)
+[![Diabloxvx release](https://img.shields.io/github/v/release/tiann/KernelSU?label=Release&logo=github)](https://github.com/Diabloxvx/KernelSU/releases)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-orange.svg?logo=gnu)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 [![GitHub License](https://img.shields.io/github/license/tiann/KernelSU?logo=gnu)](/LICENSE)
 
