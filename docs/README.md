@@ -20,7 +20,6 @@ A Kernel-based root solution for Android devices.
 ## Usage
 
 - [Installation Instruction](https://kernelsu.org/guide/installation.html)
-- [How to build?](https://kernelsu.org/guide/how-to-build.html)
 - [Official Website](https://kernelsu.org/)
 
 
