@@ -1,4 +1,4 @@
-# KernelSU
+# KernelSU (Not updating for now)
 
 <img src="https://kernelsu.org/logo.png" style="width: 96px;" alt="logo">
 
